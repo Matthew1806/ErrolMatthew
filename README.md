@@ -65,7 +65,7 @@ A modern and interactive car rental platform with a red‑black design theme.
 
 ## 📫 Contact Me
 
-* 📧 Email: *[your-email@example.com](mailto:i.am.matthewcudala@gmail.com)*
+* 📧 Email: *[i.am.matthewcudala@gmail.com](mailto:i.am.matthewcudala@gmail.com)*
 * 🌐 Portfolio soon...
 
 Thanks for visiting my profile — feel free to explore my repositories!
