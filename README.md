@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm passionate about building modern, interactive,
 * 💻 I create web apps using HTML, CSS, JavaScript, Python, and Flask
 * 🎨 I love designing clean, modern, and responsive UIs
 * 🧠 Continuously learning new tools and technologies
-* 🔧 Currently exploring: **MongoDB**, **SQLite**, **Flask**, and **full‑stack development**
+* 🔧 Currently exploring: **MySQL**, **SQLite**, **Flask**, and **full‑stack development**
 
 ---
 
